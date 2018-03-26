@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/2.FPT_Aptech/HK4-JavaWeb/0.Project/Project_Test/web/showReview.jsp</file>
+            <file>file:/E:/2.FPT_Aptech/HK4-JavaWeb/0.Project/Project_Test/src/java/beans/CustomerFacadeLocal.java</file>
+            <file>file:/E:/2.FPT_Aptech/HK4-JavaWeb/0.Project/Project_Test/src/java/controllers/SearchCustomerServlet.java</file>
+            <file>file:/E:/2.FPT_Aptech/HK4-JavaWeb/0.Project/Project_Test/web/showCustomer.jsp</file>
+            <file>file:/E:/2.FPT_Aptech/HK4-JavaWeb/0.Project/Project_Test/src/java/entities/ReviewPK.java</file>
+            <file>file:/E:/2.FPT_Aptech/HK4-JavaWeb/0.Project/Project_Test/web/searchCustomer.jsp</file>
+            <file>file:/E:/2.FPT_Aptech/HK4-JavaWeb/0.Project/Project_Test/src/java/beans/CustomerFacade.java</file>
+            <file>file:/E:/2.FPT_Aptech/HK4-JavaWeb/0.Project/Project_Test/src/java/beans/ReviewFacade.java</file>
+            <file>file:/E:/2.FPT_Aptech/HK4-JavaWeb/0.Project/Project_Test/src/java/entities/Review.java</file>
+            <file>file:/E:/2.FPT_Aptech/HK4-JavaWeb/0.Project/Project_Test/src/java/entities/Customer.java</file>
+            <file>file:/E:/2.FPT_Aptech/HK4-JavaWeb/0.Project/Project_Test/src/java/controllers/ShowReviewServlet.java</file>
+            <file>file:/E:/2.FPT_Aptech/HK4-JavaWeb/0.Project/Project_Test/src/java/beans/ReviewFacadeLocal.java</file>
+            <file>file:/E:/2.FPT_Aptech/HK4-JavaWeb/0.Project/Project_Test/web/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
